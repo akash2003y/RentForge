@@ -177,46 +177,41 @@ npm run dev
 
 # Screenshots
 
+## Login Page
+
+```md
+![Login Page](screenshots/LoginPage.png)
+```
+
 ## Home Page
 
 ```md
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/HomePage.png)
 ```
 
 ## Equipment Listing
 
 ```md
-![Equipment Listing](screenshots/equipment.png)
-```
-
-## Booking System
-
-```md
-![Booking System](screenshots/booking.png)
-```
-
-## Booking History
-
-```md
-![Booking History](screenshots/booking-history.png)
+![Equipment Page](screenshots/EquipmentPage.png)
 ```
 
 ## Admin Dashboard
 
 ```md
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/AdminDashboard.png)
 ```
 
 ## Equipment Management
 
 ```md
-![Equipment Management](screenshots/admin-equipment.png)
+![Equipment Management](screenshots/EquipmentManagement.png)
 ```
 
 ## Booking Management
 
 ```md
-![Booking Management](screenshots/admin-bookings.png)
+
+![Booking Management](screenshots/BookingManagement.png)
 ```
 
 ---
